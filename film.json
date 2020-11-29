@@ -13,7 +13,7 @@
     "Language": "English, Hindi",
     "Country": "India",
     "Awards": "None",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "thappad.jpg",
     "Score": "4.5",
     "Type": "movie"
    },
@@ -31,7 +31,7 @@
     "Language": "English, Hindi",
     "Country": "India",
     "Awards": "None",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "taare.jpg",
     "Score": "4.3",
     "Type": "movie"
    },
@@ -49,7 +49,7 @@
     "Language": "English, Hindi",
     "Country": "India",
     "Awards": "None",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "barfi.jpg",
     "Score": "4.2",
     "Type": "movie"
    },
@@ -67,7 +67,7 @@
     "Language": "English, Hindi",
     "Country": "India",
     "Awards": "None",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "gully.jpg",
     "Score": "4.3",
     "Type": "movie"
    },
@@ -85,7 +85,7 @@
     "Language": "English, Hindi",
     "Country": "India",
     "Awards": "None",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "raazi.jpg",
     "Score": "3.9",
     "Type": "movie"
    },
@@ -103,7 +103,7 @@
     "Language": "English, Spanish",
     "Country": "USA, UK",
     "Awards": "Won 11 Oscars. Another 112 wins & 83 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "titanic.jpg",
     "Score": "4.4",
     "Type": "movie"
    },
@@ -121,7 +121,7 @@
     "Language": "English, Spanish",
     "Country": "USA, UK",
     "Awards": "Won 2 Oscars. Another 154 wins & 160 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "darknight.jpg",
     "Score": "4.2",
     "Type": "movie"
    },
@@ -139,7 +139,7 @@
     "Language": "English, Spanish",
     "Country": "USA, UK",
     "Awards": "Won 3 Oscars. Another 40 wins & 27 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "jurassic.jpg",
     "Score": "4.4",
     "Type": "movie"
    },
@@ -157,7 +157,7 @@
     "Language": "English, Spanish",
     "Country": "USA, UK",
     "Awards": "Won 2 Oscars. Another 10 wins & 29 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Poster": "sherlock.jpg",
     "Score": "3.7",
     "Type": "movie"
    },
@@ -175,8 +175,8 @@
     "Language": "English, Spanish",
     "Country": "USA, UK",
     "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    "Score": "83",
+    "Poster": "avatar.jpg",
+    "Score": "3.8",
     "Type": "movie"
    }
 ]
